@@ -5,7 +5,7 @@
 .editable_display {
   padding: 6px 12px;
   border-radius: 3px;
-  background-color: #eee;
+  background-color: #629f77;
   color: #000;
   cursor: pointer;
   width: fit-content;
@@ -47,7 +47,8 @@
   padding: 10px;
 }
 .editable_edit_footer button:hover {
-  background-color: #046daa;
+  background-color: #fff;
+  color:#0079bf
 }
 
 .editable_edit_footer button:active {
