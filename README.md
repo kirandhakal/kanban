@@ -4,7 +4,6 @@ A simple and intuitive Kanban board application for managing tasks and workflows
 
 ## Features
 
-- Three-column layout: To-Do, In Progress, and Completed
 - Add and delete cards in any column
 - Drag-and-drop functionality for moving tasks between columns
 - Task counter for each column
