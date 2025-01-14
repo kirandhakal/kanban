@@ -11,6 +11,11 @@ A simple and intuitive Kanban board application for managing tasks and workflows
 - Add new board functionality
 - Clean, minimalist interface with a modern design
 
+## DEMO
+  ```bash
+https://drive.google.com/file/d/1B50OaijqHUCn4j86IaletkDQZ5Xpg6gc/view?usp=drive_link
+```
+
 ## Getting Started
 
 ### Prerequisites
