@@ -10,10 +10,15 @@ A simple and intuitive Kanban board application for managing tasks and workflows
 - Add new board functionality
 - Clean, minimalist interface with a modern design
 
+To see live demo :
+```bash
+https://kirandhakal.github.io/kanban/
+```
 ## DEMO
   ```bash
 https://drive.google.com/file/d/1B50OaijqHUCn4j86IaletkDQZ5Xpg6gc/view?usp=drive_link
 ```
+
 
 ## Getting Started
 
@@ -27,12 +32,12 @@ https://drive.google.com/file/d/1B50OaijqHUCn4j86IaletkDQZ5Xpg6gc/view?usp=drive
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/kanban-board.git
+git clone https://github.com/kirandhakal/kanban
 ```
 
 2. Navigate to the project directory:
 ```bash
-cd kanban-board
+cd kanban
 ```
 
 3. Install dependencies:
@@ -72,7 +77,7 @@ yarn start
 ## Project Structure
 
 ```
-kanban-board/
+kanban/
 ├── node_modules/
 ├── public/  
 ├── src/
